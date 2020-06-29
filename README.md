@@ -6,10 +6,10 @@ To delete the the task (When you've done it or plan on skipping it :P) just clic
 
 ##You can use the following commands to start the project:
 
-##`npm install`
+###`npm install`
 
 To install all the dependencies required.
 
-##`npm start`
+###`npm start`
 
 To start the react app and start using the to do list :)
